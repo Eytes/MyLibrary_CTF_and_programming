@@ -1,4 +1,4 @@
-<h1 align='center'>Training_and_problem_solving</h1>
+<h1 align='center'>Training and problem solving</h1>
 
 Solving problems of varying complexity on websites:
 <div class='container'>
