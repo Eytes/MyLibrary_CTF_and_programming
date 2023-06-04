@@ -6,5 +6,6 @@ Solving problems of varying complexity on websites:
     <li><a href='https://www.codewars.com/' target='_blank'>CodeWars</li>
     <li><a href='https://leetcode.com/' target='_blank'>LeetCode</li>
     <li><a href='https://www.hackerrank.com/' target='_blank'>HuckerRank</li>
+    <li>CTF</li>
   </ul>
 </div>
