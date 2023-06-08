@@ -43,6 +43,7 @@
 - [Полезные статьи 2](https://digitology.tech/)
 - [Полезные статьи 3](https://pythonru.com/)
 - [Интерактивный учебник](https://pythontutor.ru/)
+- [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/index.html)
 
 #### SQL:
 - [Interview Query](https://www.interviewquery.com/)
