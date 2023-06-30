@@ -46,6 +46,8 @@
 - [Полезные статьи 3](https://pythonru.com/)
 - [Интерактивный учебник](https://pythontutor.ru/)
 - [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/index.html)
+- [Пакетный менеджер Poetry](https://python-poetry.org/)
+- [Framework FastAPI](https://fastapi.tiangolo.com/ru/tutorial/)
 
 #### SQL:
 - [Interview Query](https://www.interviewquery.com/)
@@ -79,6 +81,8 @@
 - [TryHackMe](https://tryhackme.com/)
 
 #### Git:
+- [Большой практический выпуск про Git на YouTube](https://youtu.be/SEvR78OhGtw)
+- [Станьте гуру Git](https://www.atlassian.com/ru/git/tutorials)
 - [Интерактивный тур, который познакомит вас с основами Git](https://githowto.com/ru)
 - [Найдите нужные вам команды, не копаясь в Интернете](https://gitexplorer.com/)
 
