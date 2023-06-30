@@ -12,7 +12,9 @@
 [Web](#web)\
 [Linux](#linux)\
 [Pintest](#pintest)\
-[Git](#git)
+[Git](#git)\
+[CTF](#ctf)\
+[Blokchain](#blokchain)
 
 
 #### Sites with programming tasks:
@@ -79,3 +81,9 @@
 #### Git:
 - [Интерактивный тур, который познакомит вас с основами Git](https://githowto.com/ru)
 - [Найдите нужные вам команды, не копаясь в Интернете](https://gitexplorer.com/)
+
+#### CTF:
+- [Курс молодого бойца CTF](https://kmb.cybber.ru/about.html)
+
+#### Blokchain:
+- [Ethereum](https://ethereum.org/ru/developers/docs/intro-to-ethereum/)
