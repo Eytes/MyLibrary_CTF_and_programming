@@ -68,6 +68,8 @@
 - [иконки без загрузки](https://fontawesome.com/search)
 - [шрифты](https://fonts.google.com/)
 - [дизайнерские решения на bootstrap и JS](https://mdbootstrap.com/docs/standard/)
+- [HTMLBASE - справочник по HTML и CSS. Описание HTML тегов и атрибутов, описание CSS свойств и значений, много примеров кода, видео и задачи для обучения.](https://htmlbase.ru/)
+- [Дока — это документация для разработчиков на понятном языке.](https://doka.guide/)
 
 #### Linux:
 - [Библиотека linux](https://linuxshef.code.blog/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0-linux/)
