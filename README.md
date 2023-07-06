@@ -32,6 +32,7 @@
 - [Учебники CoderLessons.com](https://coderlessons.com/tutorials)
 - [Программирование: теория и практика BestProg](https://www.bestprog.net/ru/sitemap_ru/)
 - [METANIT](https://metanit.com/)
+- [W3Schools for learning and training](https://www.w3schools.com/)
 - [code.mu лучший учебник по программированию](https://code.mu/ru/markup/book/prime/)
 - [Ulearn.me — платформа с интерактивными онлайн-курсами](https://ulearn.me/)
 - [Лаборатория линуксоида](https://younglinux.info/)
