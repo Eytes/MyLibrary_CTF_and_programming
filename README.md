@@ -23,6 +23,7 @@
 - [LeetCode](https://leetcode.com/)
 - [HuckerRank](https://www.hackerrank.com/)
 - [CheckIo](https://checkio.org/)
+- [Python упражнения, практика, решение](http://www.kodesource.top/python-exercises/)
 
 #### Usefull links:
 - [HTML to Markdown](https://codebeautify.org/html-to-markdown)
