@@ -55,6 +55,7 @@
 - [Пакетный менеджер Poetry](https://python-poetry.org/)
 - [Framework FastAPI](https://fastapi.tiangolo.com/ru/tutorial/)
 - [Самоучитель python](https://pythonworld.ru/samouchitel-python)
+- [Основы python. Яндекс академмя](https://academy.yandex.ru/handbook/python)
 
 #### SQL:
 - [Interview Query](https://www.interviewquery.com/)
