@@ -52,6 +52,7 @@
 - [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/index.html)
 - [Пакетный менеджер Poetry](https://python-poetry.org/)
 - [Framework FastAPI](https://fastapi.tiangolo.com/ru/tutorial/)
+- [Самоучитель python](https://pythonworld.ru/samouchitel-python)
 
 #### SQL:
 - [Interview Query](https://www.interviewquery.com/)
