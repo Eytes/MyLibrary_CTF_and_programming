@@ -22,7 +22,7 @@
 - [CodeWars](https://www.codewars.com/)
 - [LeetCode](https://leetcode.com/)
 - [HuckerRank](https://www.hackerrank.com/)
-- [PyCheckIo](https://py.checkio.org/)
+- [CheckIo](https://checkio.org/)
 
 #### Usefull links:
 - [HTML to Markdown](https://codebeautify.org/html-to-markdown)
