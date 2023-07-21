@@ -1,4 +1,4 @@
-# Training and problem solving
+# Library
 
 ## Contents
 [Sites with programming tasks](#sites-with-programming-tasks)\
