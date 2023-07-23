@@ -27,6 +27,8 @@
   - [CryptoHack](https://cryptohack.org/)
   - [HackTheBox](https://app.hackthebox.com/home)
   - [TryHackMe](https://tryhackme.com/)
+  - [Vulnhub](https://www.vulnhub.com/)
+  - [Metasploitable](https://information.rapid7.com/download-metasploitable-thank-you.html)
 
 #### Usefull links:
 - [HTML to Markdown](https://codebeautify.org/html-to-markdown)
