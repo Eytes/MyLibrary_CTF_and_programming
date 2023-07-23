@@ -1,7 +1,7 @@
 # Library
 
 ## Contents
-[Sites with programming tasks](#sites-with-programming-tasks)\
+[Сайты с задачами](#сайты-с-задачами)\
 [Usefull links](#usefull-links)\
 [Sites about programming](#sites-about-programming)\
 [Python](#python)\
@@ -11,19 +11,22 @@
 [Java](#java)\
 [Web](#web)\
 [Linux](#linux)\
-[Pintest](#pintest)\
 [Git](#git)\
 [CTF](#ctf)\
 [Blokchain](#blokchain)
 
 
-#### Sites with programming tasks:
-
-- [CodeWars](https://www.codewars.com/)
-- [LeetCode](https://leetcode.com/)
-- [HuckerRank](https://www.hackerrank.com/)
-- [CheckIo](https://checkio.org/)
-- [Python упражнения, практика, решение](http://www.kodesource.top/python-exercises/)
+#### Сайты с задачами:
+- программирование:
+  - [CodeWars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/)
+  - [HuckerRank](https://www.hackerrank.com/)
+  - [CheckIo](https://checkio.org/)
+  - [Python упражнения, практика, решение](http://www.kodesource.top/python-exercises/)
+- Pintest:
+  - [CryptoHack](https://cryptohack.org/)
+  - [HackTheBox](https://app.hackthebox.com/home)
+  - [TryHackMe](https://tryhackme.com/)
 
 #### Usefull links:
 - [HTML to Markdown](https://codebeautify.org/html-to-markdown)
@@ -84,12 +87,6 @@
 - [Все самые полезные и интересные в Linux руководства и статьи](https://losst.ru/nachnite-izuchat-linux-pryamo-sejchas)
 - [Ресурс для получения помощи, если у нас есть проблемы с пониманием длинной команды](https://explainshell.com/)
 
-
-#### Pintest:
-- [CryptoHack](https://cryptohack.org/)
-- [HackTheBox](https://app.hackthebox.com/home)
-- [TryHackMe](https://tryhackme.com/)
-
 #### Git:
 - [Большой практический выпуск про Git на YouTube](https://youtu.be/SEvR78OhGtw)
 - [Станьте гуру Git](https://www.atlassian.com/ru/git/tutorials)
@@ -98,6 +95,12 @@
 
 #### CTF:
 - [Курс молодого бойца CTF](https://kmb.cybber.ru/about.html)
+- материалы о методологии:
+  - [Руководство по методологии тестирования безопасности с открытым исходным кодом (OSSTMM).](https://www.isecom.org/research.html#content5-9d)
+  - [Открытый проект безопасности веб-приложений (OWASP).](https://owasp.org/www-project-top-ten/)
+  - [Стандарт выполнения испытаний на проникновение (PTES).](http://www.pentest-standard.org/index.php/Main_Page)
+  - [База знаний MITRE ATT&CK (не совсем методика).](https://attack.mitre.org/)
+  - [Information System Security Assessment Framework (ISSAF).](http://cuchillac.net/archivos/pre_seguridad_pymes/2_hakeo_etico/lects/metodologia_oissg.pdf)
 
 #### Blokchain:
 - [Ethereum](https://ethereum.org/ru/developers/docs/intro-to-ethereum/)
