@@ -29,6 +29,7 @@
   - [TryHackMe](https://tryhackme.com/)
   - [Vulnhub](https://www.vulnhub.com/)
   - [Metasploitable](https://information.rapid7.com/download-metasploitable-thank-you.html)
+  - [FORKBOMB](https://forkbomb.ru)
 
 #### Usefull links:
 - [HTML to Markdown](https://codebeautify.org/html-to-markdown)
@@ -75,6 +76,7 @@
 
 #### Java
 - [Free Java Tutorial](https://www.examclouds.com/)
+- [Самоучитель по программированию с нуля](https://proglang.su/java)
 
 #### Web:
 - [Resources for Developers, by Developers](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web)
@@ -85,6 +87,7 @@
 - [Дока — это документация для разработчиков на понятном языке.](https://doka.guide/)
 
 #### Linux:
+- [Дистрибутивы Linux](https://distrowatch.com/table.php?distribution=mx)
 - [Библиотека linux](https://linuxshef.code.blog/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0-linux/)
 - [Все самые полезные и интересные в Linux руководства и статьи](https://losst.ru/nachnite-izuchat-linux-pryamo-sejchas)
 - [Ресурс для получения помощи, если у нас есть проблемы с пониманием длинной команды](https://explainshell.com/)
