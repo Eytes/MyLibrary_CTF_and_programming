@@ -97,7 +97,7 @@
 - [Большой практический выпуск про Git на YouTube](https://youtu.be/SEvR78OhGtw)
 - [Станьте гуру Git](https://www.atlassian.com/ru/git/tutorials)
 - [Интерактивный тур, который познакомит вас с основами Git](https://githowto.com/ru)
-- [30 соновных команд, которые сделают из вас мастера GIT](https://habr.com/ru/companies/ruvds/articles/599929/#1)
+- [30 основных команд, которые сделают из вас мастера GIT](https://habr.com/ru/companies/ruvds/articles/599929/#1)
 - [Найдите нужные вам команды, не копаясь в Интернете](https://gitexplorer.com/)
 
 #### CTF:
