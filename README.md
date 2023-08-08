@@ -2,7 +2,7 @@
 
 ## Contents
 [Сайты с задачами](#сайты-с-задачами)\
-[Usefull links](#usefull-links)\
+[Полезные ссылки](#полезные-ссылки)\
 [Sites about programming](#sites-about-programming)\
 [Python](#python)\
 [SQL](#sql)\
@@ -32,12 +32,13 @@
   - [FORKBOMB](https://forkbomb.ru)
   - [CTFLEARN](https://ctflearn.com)
 
-#### Usefull links:
+#### Полезные ссылки:
 - [HTML to Markdown](https://codebeautify.org/html-to-markdown)
 - [Задачник](https://www.kaznu.kz/content/files/news/folder23098/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%BD%D0%B8%D0%BA%20%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D1%8F%D0%BD%D0%B0.pdf)
 - [Тренировка слепой печати](https://www.typingclub.com/sportal/program-68.game)
 - [Полный список вопросов с собеседований по Python для дата-сайентистов и инженеров 2020](https://habr.com/ru/companies/vk/articles/506824/)
 - [Клавиатурный тренажер](https://stamina-online.com/ru/workout/programming/15)
+- [Академия Selectel](https://selectel.ru/blog/courses/)
 
 #### Sites about programming:
 - [Учебники CoderLessons.com](https://coderlessons.com/tutorials)
