@@ -17,13 +17,13 @@
 
 
 ### Сайты с задачами:
-- программирование:
+- #### Программирование:
   - [CodeWars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/)
   - [HuckerRank](https://www.hackerrank.com/)
   - [CheckIo](https://checkio.org/)
   - [Python упражнения, практика, решение](http://www.kodesource.top/python-exercises/)
-- Pintest:
+- #### Pintest:
   - [CryptoHack](https://cryptohack.org/)
   - [HackTheBox](https://app.hackthebox.com/home)
   - [TryHackMe](https://tryhackme.com/)
