@@ -104,6 +104,7 @@
 #### CTF:
 - [Курс молодого бойца CTF](https://kmb.cybber.ru/about.html)
 - [CTF Playbook](https://fareedfauzi.gitbook.io/ctf-playbook/)
+- [PostSwigger. Web security academy](https://portswigger.net/web-security/getting-started)
 - материалы о методологии:
   - [Руководство по методологии тестирования безопасности с открытым исходным кодом (OSSTMM).](https://www.isecom.org/research.html#content5-9d)
   - [Открытый проект безопасности веб-приложений (OWASP).](https://owasp.org/www-project-top-ten/)
