@@ -16,7 +16,7 @@
 >[Blokchain](#blokchain)
 
 
-#### Сайты с задачами:
+### Сайты с задачами:
 - программирование:
   - [CodeWars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/)
@@ -32,7 +32,7 @@
   - [FORKBOMB](https://forkbomb.ru)
   - [CTFLEARN](https://ctflearn.com)
 
-#### Полезные ссылки:
+### Полезные ссылки:
 - [HTML to Markdown](https://codebeautify.org/html-to-markdown)
 - [Задачник](https://www.kaznu.kz/content/files/news/folder23098/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%BD%D0%B8%D0%BA%20%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D1%8F%D0%BD%D0%B0.pdf)
 - [Тренировка слепой печати](https://www.typingclub.com/sportal/program-68.game)
@@ -40,7 +40,7 @@
 - [Клавиатурный тренажер](https://stamina-online.com/ru/workout/programming/15)
 - [Академия Selectel](https://selectel.ru/blog/courses/)
 
-#### Сайты о программировании:
+### Сайты о программировании:
 - [Учебники CoderLessons.com](https://coderlessons.com/tutorials)
 - [Программирование: теория и практика BestProg](https://www.bestprog.net/ru/sitemap_ru/)
 - [METANIT](https://metanit.com/)
@@ -54,7 +54,7 @@
 - [proproprogs](https://proproprogs.ru/index.php)
 - [MouseDC.ru » Обучение](https://www.mousedc.ru/learning/)
 
-#### Python
+### Python
 - [Полезные статьи 1](https://python-scripts.com/)
 - [Полезные статьи 2](https://digitology.tech/)
 - [Полезные статьи 3](https://pythonru.com/)
@@ -65,22 +65,22 @@
 - [Самоучитель python](https://pythonworld.ru/samouchitel-python)
 - [Основы python. Яндекс академмя](https://academy.yandex.ru/handbook/python)
 
-#### SQL:
+### SQL:
 - [Interview Query](https://www.interviewquery.com/)
 - [Master coding for data science](https://www.stratascratch.com/)
 - [SQLite Tutorial](https://www.sqlitetutorial.net/)
 
-#### C/C++:
+### C/C++:
 - [Основы программирования на С++ для начинающих](https://purecodecpp.com/)
 
-#### JavaScript and frameworks
+### JavaScript and frameworks
 - [Современный учебник JavaScript](https://learn.javascript.ru/)
 
-#### Java
+### Java
 - [Free Java Tutorial](https://www.examclouds.com/)
 - [Самоучитель по программированию с нуля](https://proglang.su/java)
 
-#### Web:
+### Web:
 - [Resources for Developers, by Developers](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web)
 - [иконки без загрузки](https://fontawesome.com/search)
 - [шрифты](https://fonts.google.com/)
@@ -88,20 +88,20 @@
 - [HTMLBASE - справочник по HTML и CSS. Описание HTML тегов и атрибутов, описание CSS свойств и значений, много примеров кода, видео и задачи для обучения.](https://htmlbase.ru/)
 - [Дока — это документация для разработчиков на понятном языке.](https://doka.guide/)
 
-#### Linux:
+### Linux:
 - [Дистрибутивы Linux](https://distrowatch.com/table.php?distribution=mx)
 - [Библиотека linux](https://linuxshef.code.blog/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0-linux/)
 - [Все самые полезные и интересные в Linux руководства и статьи](https://losst.ru/nachnite-izuchat-linux-pryamo-sejchas)
 - [Ресурс для получения помощи, если у нас есть проблемы с пониманием длинной команды](https://explainshell.com/)
 
-#### Git:
+### Git:
 - [Большой практический выпуск про Git на YouTube](https://youtu.be/SEvR78OhGtw)
 - [Станьте гуру Git](https://www.atlassian.com/ru/git/tutorials)
 - [Интерактивный тур, который познакомит вас с основами Git](https://githowto.com/ru)
 - [30 основных команд, которые сделают из вас мастера GIT](https://habr.com/ru/companies/ruvds/articles/599929/#1)
 - [Найдите нужные вам команды, не копаясь в Интернете](https://gitexplorer.com/)
 
-#### CTF:
+### CTF:
 - [Курс молодого бойца CTF](https://kmb.cybber.ru/about.html)
 - [CTF Playbook](https://fareedfauzi.gitbook.io/ctf-playbook/)
 - [PostSwigger. Web security academy](https://portswigger.net/web-security/getting-started)
@@ -112,5 +112,5 @@
   - [База знаний MITRE ATT&CK (не совсем методика).](https://attack.mitre.org/)
   - [Information System Security Assessment Framework (ISSAF).](http://cuchillac.net/archivos/pre_seguridad_pymes/2_hakeo_etico/lects/metodologia_oissg.pdf)
 
-#### Blokchain:
+### Blokchain:
 - [Ethereum](https://ethereum.org/ru/developers/docs/intro-to-ethereum/)
