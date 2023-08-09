@@ -1,19 +1,19 @@
 # Library
 
-## Contents
-[Сайты с задачами](#сайты-с-задачами)\
-[Полезные ссылки](#полезные-ссылки)\
-[Sites about programming](#sites-about-programming)\
-[Python](#python)\
-[SQL](#sql)\
-[C/C++](#cc)\
-[JavaScript and frameworks](#javascript-and-frameworks)\
-[Java](#java)\
-[Web](#web)\
-[Linux](#linux)\
-[Git](#git)\
-[CTF](#ctf)\
-[Blokchain](#blokchain)
+## Содержание
+>[Сайты с задачами](#сайты-с-задачами)\
+>[Полезные ссылки](#полезные-ссылки)\
+>[Сайты о программировании](#сайты-о-программировании)\
+>[Python](#python)\
+>[SQL](#sql)\
+>[C/C++](#cc)\
+>[JavaScript and frameworks](#javascript-and-frameworks)\
+>[Java](#java)\
+>[Web](#web)\
+>[Linux](#linux)\
+>[Git](#git)\
+>[CTF](#ctf)\
+>[Blokchain](#blokchain)
 
 
 #### Сайты с задачами:
@@ -40,7 +40,7 @@
 - [Клавиатурный тренажер](https://stamina-online.com/ru/workout/programming/15)
 - [Академия Selectel](https://selectel.ru/blog/courses/)
 
-#### Sites about programming:
+#### Сайты о программировании:
 - [Учебники CoderLessons.com](https://coderlessons.com/tutorials)
 - [Программирование: теория и практика BestProg](https://www.bestprog.net/ru/sitemap_ru/)
 - [METANIT](https://metanit.com/)
