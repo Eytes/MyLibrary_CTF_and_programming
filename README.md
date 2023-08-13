@@ -105,6 +105,10 @@
 - [Курс молодого бойца CTF](https://kmb.cybber.ru/about.html)
 - [CTF Playbook](https://fareedfauzi.gitbook.io/ctf-playbook/)
 - [PostSwigger. Web security academy](https://portswigger.net/web-security/getting-started)
+- #### SQLMmap:
+  - [Инструкция по использованию. Ч.1: Основы работы (GET)](https://hackware.ru/?p=1928)
+  - [Инструкция по использованию. Ч.2: Продвинутое сканирование и эксплуатация (POST, после аутентификации, AJAX/jQuery)](https://hackware.ru/?p=1956)
+  - [Инструкция по использованию. Ч.3: Залив бэкдора, выполнение системных команд, изменение данных в БД](https://hackware.ru/?p=2069)
 - #### материалы о методологии:
   - [Руководство по методологии тестирования безопасности с открытым исходным кодом (OSSTMM).](https://www.isecom.org/research.html#content5-9d)
   - [Открытый проект безопасности веб-приложений (OWASP).](https://owasp.org/www-project-top-ten/)
