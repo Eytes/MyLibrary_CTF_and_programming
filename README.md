@@ -38,6 +38,7 @@
 - [Тренировка слепой печати](https://www.typingclub.com/sportal/program-68.game)
 - [Полный список вопросов с собеседований по Python для дата-сайентистов и инженеров 2020](https://habr.com/ru/companies/vk/articles/506824/)
 - [Клавиатурный тренажер](https://stamina-online.com/ru/workout/programming/15)
+- [Алексей Мичурин. О многом кратко](http://www.michurin.net/)
 - [Академия Selectel](https://selectel.ru/blog/courses/)
 
 ### Сайты о программировании:
