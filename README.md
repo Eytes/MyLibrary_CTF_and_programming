@@ -106,6 +106,7 @@
 - [Курс молодого бойца CTF](https://kmb.cybber.ru/about.html)
 - [CTF Playbook](https://fareedfauzi.gitbook.io/ctf-playbook/)
 - [PostSwigger. Web security academy](https://portswigger.net/web-security/getting-started)
+- [Настройка DVWA](https://spy-soft.net/dvwa-kali-linux/)
 - #### SQLMmap:
   - [Инструкция по использованию. Ч.1: Основы работы (GET)](https://hackware.ru/?p=1928)
   - [Инструкция по использованию. Ч.2: Продвинутое сканирование и эксплуатация (POST, после аутентификации, AJAX/jQuery)](https://hackware.ru/?p=1956)
