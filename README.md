@@ -3,7 +3,7 @@
 ## Содержание
 >[Сайты с задачами](#сайты-с-задачами)\
 >[Полезные ссылки](#полезные-ссылки)\
->[Сайты о программировании](#сайты-о-программировании)\
+>[Сайты о программировании](#программирование)\
 >[Python](#python)\
 >[SQL](#sql)\
 >[C/C++](#cc)\
@@ -41,19 +41,23 @@
 - [Алексей Мичурин. О многом кратко](http://www.michurin.net/)
 - [Академия Selectel](https://selectel.ru/blog/courses/)
 
-### Сайты о программировании:
-- [Учебники CoderLessons.com](https://coderlessons.com/tutorials)
-- [Программирование: теория и практика BestProg](https://www.bestprog.net/ru/sitemap_ru/)
-- [METANIT](https://metanit.com/)
-- [W3Schools for learning and training](https://www.w3schools.com/)
-- [code.mu лучший учебник по программированию](https://code.mu/ru/markup/book/prime/)
-- [Ulearn.me — платформа с интерактивными онлайн-курсами](https://ulearn.me/)
-- [Лаборатория линуксоида](https://younglinux.info/)
-- [Получите новые навыки и узнайте о возможностях продуктов Майкрософт](https://learn.microsoft.com/ru-ru/training/browse/)
-- [СodeСhick.io - простой и эффективный способ изучения программирования](https://codechick.io/)
-- [Learn to Code. With the world's largest web developer site](https://www.w3schools.com/)
-- [proproprogs](https://proproprogs.ru/index.php)
-- [MouseDC.ru » Обучение](https://www.mousedc.ru/learning/)
+### Программирование:
+- #### Принцип ООП SOLID:
+  - [SOLID на примерах 1](https://habr.com/ru/articles/688530/)
+  - [SOLID на примерах 2](https://medium.com/webbdev/solid-4ffc018077da)
+- #### Учебники
+  - [Учебники CoderLessons.com](https://coderlessons.com/tutorials)
+  - [METANIT](https://metanit.com/)
+  - [W3Schools for learning and training](https://www.w3schools.com/)
+  - [code.mu лучший учебник по программированию](https://code.mu/ru/markup/book/prime/)
+  - [Ulearn.me — платформа с интерактивными онлайн-курсами](https://ulearn.me/)
+  - [Лаборатория линуксоида](https://younglinux.info/)
+  - [Программирование: теория и практика BestProg](https://www.bestprog.net/ru/sitemap_ru/)
+  - [MouseDC.ru » Обучение](https://www.mousedc.ru/learning/)
+  - [proproprogs](https://proproprogs.ru/index.php)
+- #### Прочее
+  - [Получите новые навыки и узнайте о возможностях продуктов Майкрософт](https://learn.microsoft.com/ru-ru/training/browse/)
+
 
 ### Python
 - [Полезные статьи 1](https://python-scripts.com/)
