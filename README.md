@@ -42,9 +42,10 @@
 - [Академия Selectel](https://selectel.ru/blog/courses/)
 
 ### Программирование:
-- #### Принцип ООП SOLID:
-  - [SOLID на примерах 1](https://habr.com/ru/articles/688530/)
-  - [SOLID на примерах 2](https://medium.com/webbdev/solid-4ffc018077da)
+- #### ООП 
+  - ##### SOLID:
+    - [SOLID на примерах 1](https://habr.com/ru/articles/688530/)
+    - [SOLID на примерах 2](https://medium.com/webbdev/solid-4ffc018077da)
 - #### Учебники
   - [Учебники CoderLessons.com](https://coderlessons.com/tutorials)
   - [METANIT](https://metanit.com/)
