@@ -4,6 +4,7 @@
 >[Сайты с задачами](#сайты-с-задачами)\
 >[Полезные ссылки](#полезные-ссылки)\
 >[Программирование](#программирование)\
+>[Docker](#docker)\
 >[Python](#python)\
 >[SQL](#sql)\
 >[C/C++](#cc)\
@@ -59,6 +60,8 @@
 - #### Прочее
   - [Получите новые навыки и узнайте о возможностях продуктов Майкрософт](https://learn.microsoft.com/ru-ru/training/browse/)
 
+### Docker
+- [Play with Docker. Песочница для работы с контейнерами](https://labs.play-with-docker.com/)
 
 ### Python
 - [Полезные статьи 1](https://python-scripts.com/)
