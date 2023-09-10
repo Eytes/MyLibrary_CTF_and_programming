@@ -62,6 +62,7 @@
 
 ## Docker
 - [Play with Docker. Песочница для работы с контейнерами](https://labs.play-with-docker.com/)
+- [Docker для начинающих + практический опыт](https://stepik.org/course/123300/syllabus)
 
 ## Python
 - [Полезные статьи 1](https://python-scripts.com/)
