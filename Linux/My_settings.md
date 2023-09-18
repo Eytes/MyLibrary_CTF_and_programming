@@ -1,3 +1,6 @@
+TODO: установка oh-my-zsh (с расширениями автодополнения и подсветки синтаксиса) git curl wget ssh-client docker docker-compose VMWare pycharm vscode
+
+
 # Ubuntu
 
 1.  бновление системы
