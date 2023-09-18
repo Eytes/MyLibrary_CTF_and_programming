@@ -24,17 +24,18 @@
    Currently running: 5.4.0-1-MANJARO (linux54)
    The following kernels are installed in your system:
       * linux54
-
-   
+   ```
+   ```bash
    $ sudo pacman -Syu virtualbox linux54-virtualbox-host-modules
-
-   
+   ```
+   ```bash
    $ sudo vboxreload
-
-
+   ```
+   ```bash
    $ vboxmanage --version
    6.1.14r140239
    ```
+   
 3.  Установка poetry
     ```bash
     $ curl -sSL https://install.python-poetry.org | python3 -
