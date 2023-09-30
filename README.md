@@ -18,7 +18,7 @@
 
 
 ## Сайты с задачами:
-- ### Программирование:
+- ### Тренировка программирования:
   - [CodeWars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/)
   - [HuckerRank](https://www.hackerrank.com/)
@@ -74,6 +74,7 @@
 - [Framework FastAPI](https://fastapi.tiangolo.com/ru/tutorial/)
 - [Самоучитель python](https://pythonworld.ru/samouchitel-python)
 - [Основы python. Яндекс академмя](https://academy.yandex.ru/handbook/python)
+- [Курс от CodeAcademy Online](https://github.com/CodeAcademy-Online/python-new-material/wiki)
 
 ## SQL:
 - [Interview Query](https://www.interviewquery.com/)
