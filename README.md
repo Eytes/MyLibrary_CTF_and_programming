@@ -90,7 +90,7 @@
 ## Java
 - [Free Java Tutorial](https://www.examclouds.com/)
 - [Самоучитель по программированию с нуля](https://proglang.su/java)
-- [Ижевский курс обучения программированию на языке Java. Данный онлайн курс разработан с целью обучения основам языка Java и подготовки к прохождению собеседования на внутренние курсы в Ижевский офис компании [EPAM](https://www.epam.com)](https://java-online-course.github.io/course/about)
+- [Ижевский курс обучения программированию на языке Java. Данный онлайн курс разработан с целью обучения основам языка Java и подготовки к прохождению собеседования на внутренние курсы в Ижевский офис компании EPAM](https://java-online-course.github.io/course/about)
 
 ## Web:
 - [Resources for Developers, by Developers](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web)
