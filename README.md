@@ -119,6 +119,7 @@
 - [PostSwigger. Web security academy](https://portswigger.net/web-security/getting-started)
 - [Snyk Learn](https://learn.snyk.io/catalog/)
 - [Настройка DVWA](https://spy-soft.net/dvwa-kali-linux/)
+- [Статьи о информационной безопасности](https://spy-soft.net)
 - ### SQLMmap:
   - [Инструкция по использованию. Ч.1: Основы работы (GET)](https://hackware.ru/?p=1928)
   - [Инструкция по использованию. Ч.2: Продвинутое сканирование и эксплуатация (POST, после аутентификации, AJAX/jQuery)](https://hackware.ru/?p=1956)
