@@ -15,6 +15,7 @@
 >[Git](#git)\
 >[CTF](#ctf)\
 >[Blokchain](#blokchain)
+>[Scratch](#scratch)
 
 
 ## Сайты с задачами:
@@ -133,3 +134,8 @@
 
 ## Blokchain:
 - [Ethereum](https://ethereum.org/ru/developers/docs/intro-to-ethereum/)
+
+## Scratch
+- [Scratch](https://scratch.mit.edu)
+- [Задачник 1](http://cir.tgl.ru/sp/pic/upload/700700022/05da54cb-e731-4669-8262-ad444896be78/R_R_R_S_R_ReR_R_S_R_R_S_ReS_R_S_R_ReS_S_R_R_R_S_R_R_SCRATCH_R_R_S_R_S_R_S_R_S_S_R_R_R_R_R_R_.pdf)
+- [Задачник 2](https://rep.vsu.by/bitstream/123456789/16874/1/Алейникова%20Т.Г.%2C%20Оганджанян%20О.П..pdf)
