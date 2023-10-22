@@ -1,21 +1,21 @@
 # Library
 
 ## Содержание
->[Сайты с задачами](#сайты-с-задачами)\
->[Полезные ссылки](#полезные-ссылки)\
->[Программирование](#программирование)\
->[Docker](#docker)\
->[Python](#python)\
->[SQL](#sql)\
->[C/C++](#cc)\
->[JavaScript and frameworks](#javascript-and-frameworks)\
->[Java](#java)\
->[Web](#web)\
->[Linux](#linux)\
->[Git](#git)\
->[CTF](#ctf)\
->[Blokchain](#blokchain)
->[Scratch](#scratch)
+> [Сайты с задачами](#сайты-с-задачами)  
+> [Полезные ссылки](#полезные-ссылки)  
+> [Программирование](#программирование)  
+> [Docker](#docker)  
+> [Python](#python)  
+> [SQL](#sql)  
+> [C/C++](#cc)  
+> [JavaScript and frameworks](#javascript-and-frameworks)  
+> [Java](#java)  
+> [Web](#web)  
+> [Linux](#linux)  
+> [Git](#git)  
+> [CTF](#ctf)  
+> [Blokchain](#blokchain)  
+> [Scratch](#scratch)
 
 
 ## Сайты с задачами:
