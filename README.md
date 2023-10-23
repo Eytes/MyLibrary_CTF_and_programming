@@ -104,6 +104,7 @@
 
 ## Linux:
 - [Курс «Операционные системы»](https://lms.crafted.su/unix-course/2022-fast-autumn/)
+- [Серия статей на хабре "Bash-скрипты"](https://habr.com/ru/companies/ruvds/articles/325522/)
 - [Дистрибутивы Linux](https://distrowatch.com/table.php?distribution=mx)
 - [Библиотека linux](https://linuxshef.code.blog/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0-linux/)
 - [Все самые полезные и интересные в Linux руководства и статьи](https://losst.ru/nachnite-izuchat-linux-pryamo-sejchas)
