@@ -36,6 +36,7 @@
   - [CTFLEARN](https://ctflearn.com)
 
 ## Полезные ссылки:
+- [Коллекция шпаргалок](https://devhints.io)
 - [HTML to Markdown](https://codebeautify.org/html-to-markdown)
 - [Тренировка слепой печати](https://www.typingclub.com/sportal/program-68.game)
 - [Полный список вопросов с собеседований по Python для дата-сайентистов и инженеров 2020](https://habr.com/ru/companies/vk/articles/506824/)
