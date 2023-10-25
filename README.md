@@ -64,6 +64,7 @@
 
 ## Docker
 - [Play with Docker. Песочница для работы с контейнерами](https://labs.play-with-docker.com/)
+- [Статья Habr: Изучаем Docker](https://habr.com/ru/companies/ruvds/articles/438796/)
 - [Docker для начинающих + практический опыт](https://stepik.org/course/123300/syllabus)
 
 ## Python
