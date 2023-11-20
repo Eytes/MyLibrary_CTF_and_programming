@@ -83,6 +83,7 @@
 - [Interview Query](https://www.interviewquery.com/)
 - [Master coding for data science](https://www.stratascratch.com/)
 - [SQLite Tutorial](https://www.sqlitetutorial.net/)
+- [Интерактивный курс по SQL](https://sql-academy.org/ru/guide)
 
 ## C/C++:
 - [Основы программирования на С++ для начинающих](https://purecodecpp.com/)
