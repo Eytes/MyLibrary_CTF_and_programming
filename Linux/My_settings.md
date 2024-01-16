@@ -12,6 +12,13 @@ TODO: установка oh-my-zsh (с расширениями автодопо
     ```bash
     $ curl -sSL https://install.python-poetry.org | python3 -
     ```
+
+3. Настройка git
+   ```bash
+    $ git config --global user.name 'Eytes'
+    $ git config --global user.email 'yura.shamanov2000@bk.ru'
+    $ ssh-keygen -t ed25519 -C "yura.shamanov2000@bk.ru"  # публичный ключ необходимо добавить на GitHub
+   ```
     
 
 # Manjaro / Arch
@@ -19,6 +26,13 @@ TODO: установка oh-my-zsh (с расширениями автодопо
 1. Обновление системы
    ```bash
    $ sudo pacman -Syyu
+   ```
+   
+2. Настройка git
+   ```bash
+    $ git config --global user.name 'Eytes'
+    $ git config --global user.email 'yura.shamanov2000@bk.ru'
+    $ ssh-keygen -t ed25519 -C "yura.shamanov2000@bk.ru"  # публичный ключ необходимо добавить на GitHub
    ```
    
 3. Уставновка virtualbox
