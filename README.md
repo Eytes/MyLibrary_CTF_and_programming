@@ -75,8 +75,8 @@
   - https://digitology.tech/
   - https://pythonru.com/
 - ### Документация для Framework'ов и полезных утилит
-- [Пакетный менеджер Poetry](https://python-poetry.org/)
-- [Framework FastAPI](https://fastapi.tiangolo.com/ru/tutorial/)
+  - [Пакетный менеджер Poetry](https://python-poetry.org/)
+  - [Framework FastAPI](https://fastapi.tiangolo.com/ru/tutorial/)
 - ### Учебники и курсы
   - [Мыслить как программист. Учимся с Python](https://andorei.github.io/learnwithpython.ru2e/index.html)
   - [Интерактивный учебник](https://pythontutor.ru/)
