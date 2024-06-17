@@ -70,16 +70,20 @@
 - [Docker - Полный курс Docker Для Начинающих [3 ЧАСА]](https://www.youtube.com/watch?v=_uZQtRyF6Eg&t=10s)
 
 ## Python
-- [Полезные статьи 1](https://python-scripts.com/)
-- [Полезные статьи 2](https://digitology.tech/)
-- [Полезные статьи 3](https://pythonru.com/)
-- [Интерактивный учебник](https://pythontutor.ru/)
-- [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/index.html)
+- ### Полезные статьи
+  - https://python-scripts.com/
+  - https://digitology.tech/
+  - https://pythonru.com/
+- ### Документация для Framework'ов и полезных утилит
 - [Пакетный менеджер Poetry](https://python-poetry.org/)
 - [Framework FastAPI](https://fastapi.tiangolo.com/ru/tutorial/)
-- [Самоучитель python](https://pythonworld.ru/samouchitel-python)
-- [Основы python. Яндекс академмя](https://academy.yandex.ru/handbook/python)
-- [Курс от CodeAcademy Online](https://github.com/CodeAcademy-Online/python-new-material/wiki)
+- ### Учебники и курсы
+  - [Мыслить как программист. Учимся с Python](https://andorei.github.io/learnwithpython.ru2e/index.html)
+  - [Интерактивный учебник](https://pythontutor.ru/)
+  - [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/index.html)
+  - [Самоучитель python](https://pythonworld.ru/samouchitel-python)
+  - [Основы python. Яндекс академмя](https://academy.yandex.ru/handbook/python)
+  - [Курс от CodeAcademy Online](https://github.com/CodeAcademy-Online/python-new-material/wiki)
 - ### Телеграм боты:
   - [Ботостроение Telegram. Aiogram3](https://youtube.com/playlist?list=PLRU2Gs7fnCuiwcEDU0AWGkSTawEQpLFPb&si=Ev6hT-bwmSfrpzx3)
   - [Разработка Telegram бота на Python, фреймворк aiogram](https://youtube.com/playlist?list=PLNi5HdK6QEmX1OpHj0wvf8Z28NYoV5sBJ&si=PonSHYv1moezE1kH)
