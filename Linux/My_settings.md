@@ -57,3 +57,27 @@ TODO: установка oh-my-zsh (с расширениями автодопо
     ```bash
     $ curl -sSL https://install.python-poetry.org | python3 -
     ```
+
+# MacOS
+
+1. Установка менеджера оконо [Rectangle](https://rectangleapp.com)
+2. Установка [Docker Desktop](https://docs.docker.com/desktop/install/mac-install/)
+3. Установка [telegram-desktop](https://macos.telegram.org)
+4. Установка [Discord](https://discord.com/download)
+5. Установка [PyCharm](https://www.jetbrains.com/pycharm/download/?section=mac)
+6. Установка `oh-my-zsh` и плагины
+   ```shell
+   $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   $ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+   ```
+7. установка `brew` и добавление в окружение
+   ```shell
+   $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   $ (echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> ~/.zshrc
+   $ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+   ```
+8. Установка необходимых улитил
+   ```shell
+   $ brew install poetry wget
+   ```
+9. 
