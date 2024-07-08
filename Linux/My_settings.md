@@ -80,7 +80,7 @@ TODO: установка oh-my-zsh (с расширениями автодопо
    ```shell
    $ brew install poetry wget bat
    ```
-9. Установка `Rust`
+9. Установка `Rust`, включая `cargo`, `rustc`, `rustup`
     ```shell
     $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     ```
