@@ -82,8 +82,7 @@ TODO: установка oh-my-zsh (с расширениями автодопо
    plugins=(
         git
         zsh-syntax-highlighting
-        zsh-autosuggestions
-        command-not-found   
+        zsh-autosuggestions   
    )
    ```
 8. установка `brew` и добавление в окружение
@@ -94,7 +93,7 @@ TODO: установка oh-my-zsh (с расширениями автодопо
    ```
 9. Установка необходимых улитил
    ```shell
-   $ brew install poetry wget bat
+   $ brew install poetry wget bat tree
    ```
 10. Установка `Rust`, включая `cargo`, `rustc`, `rustup`
     ```shell
