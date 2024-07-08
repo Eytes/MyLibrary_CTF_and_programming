@@ -65,13 +65,17 @@ TODO: установка oh-my-zsh (с расширениями автодопо
 3. Установка [telegram-desktop](https://macos.telegram.org)
 4. Установка [Discord](https://discord.com/download)
 5. Установка [PyCharm](https://www.jetbrains.com/pycharm/download/?section=mac)
-6. Установка `oh-my-zsh` и плагинов
+6. Установить утилиты для разработчика
+   ```shell
+   $ xcode-select --install
+   ``` 
+7. Установка `oh-my-zsh` и плагинов
    ```shell
    $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
    $ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
    $ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
    ```
-7. Изменить `.zshrc`
+8. Изменить `.zshrc`
    ```shell
    # ZSH_THEME="robbyrussell"
    # ZSH_THEME="xiong-chiamiov-plus"
@@ -85,17 +89,17 @@ TODO: установка oh-my-zsh (с расширениями автодопо
         zsh-autosuggestions   
    )
    ```
-8. установка `brew` и добавление в окружение
+9. установка `brew` и добавление в окружение
    ```shell
    $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    $ (echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> ~/.zshrc
    $ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
    ```
-9. Установка необходимых улитил
+10. Установка необходимых улитил
    ```shell
    $ brew install poetry wget bat tree
    ```
-10. Установка `Rust`, включая `cargo`, `rustc`, `rustup`
+11. Установка `Rust`, включая `cargo`, `rustc`, `rustup`
     ```shell
     $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     ```
