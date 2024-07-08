@@ -89,7 +89,7 @@ TODO: установка oh-my-zsh (с расширениями автодопо
         zsh-autosuggestions   
    )
    ```
-9. установка `brew` и добавление в окружение
+9. установка `brew` и добавление в `PATH` через `.zshrc`
    ```shell
    $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    $ (echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> ~/.zshrc
