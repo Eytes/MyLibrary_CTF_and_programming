@@ -73,19 +73,19 @@ TODO: установка oh-my-zsh (с расширениями автодопо
    ```
 7. Изменить `.zshrc`
    ```shell
-  # ZSH_THEME="robbyrussell"
-  # ZSH_THEME="xiong-chiamiov-plus"
-  ZSH_THEME="jispwoso"
+   # ZSH_THEME="robbyrussell"
+   # ZSH_THEME="xiong-chiamiov-plus"
+   ZSH_THEME="jispwoso"
 
-  ...
+   ...
 
-  plugins=(
-       git
-       zsh-syntax-highlighting
-       zsh-autosuggestions
-       command-not-found   
-  )
-  ```
+   plugins=(
+        git
+        zsh-syntax-highlighting
+        zsh-autosuggestions
+        command-not-found   
+   )
+   ```
 8. установка `brew` и добавление в окружение
    ```shell
    $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
