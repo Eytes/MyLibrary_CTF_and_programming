@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Разработать Dockerfiles",
+        "completed":0
+    },
+    {
+        "name": "Разработать docker-compose",
+        "completed":0
+    },
+    {
+        "name": "Настроить репликацию",
+        "completed":0
+    },
+    {
+        "name": "Запустить php приложение",
+        "completed":0
+    },
+    {
+        "name": "Составить инструкции по запуску",
+        "completed":0
+    },
+    {
+        "name": "Закоммитить изменения",
+        "completed":0
+    },
+    {
+        "name": "Отправить ссылку на репозиторий",
+        "completed":0
+    }
+]
