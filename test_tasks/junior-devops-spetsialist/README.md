@@ -17,13 +17,13 @@
     * Composer 2+ - пакетный менеджер для подключения библиотек PHP;
     * Npm 8.19+ (node.js) - пакетный менеджер для подключения библиотек JS;
     * Artisan (from Laravel 9+);
-* Само приложение находится в этом репозитории в папке [src](https://bitbucket.org/EquipGroupRu/junior-devops-spetsialist/src/master/src/);
+* Само приложение находится в этом репозитории в папке [src](https://github.com/Eytes/MyLibrary_CTF_and_programming/tree/main/test_tasks/junior-devops-spetsialist/src);
 * Приложение работает с двумя базами данных:
     * WRITER_DB - для записи;
     * READER_DB - для чтения;
 * Требуется реализовать репликацию Master→Slave (WRITER_DB→READER_DB);
 * Для запуска приложения требуется выполнить следующее:
-    * создать файл ".env" в корне приложения (скопировать в него содержимое из "[.env.example](https://bitbucket.org/EquipGroupRu/junior-devops-spetsialist/src/master/src/.env.example)" - лежит в этой же директории);
+    * создать файл ".env" в корне приложения (скопировать в него содержимое из "[.env.example](https://github.com/Eytes/MyLibrary_CTF_and_programming/tree/main/test_tasks/junior-devops-spetsialist/src.env.example)" - лежит в этой же директории);
     * В созданном ".env" указать переменные подключения к базам данных:
         * WRITER_DB_HOST=ip адрес сервера БД для записи;
         * WRITER_DB_PORT=порт подключения к БД;
