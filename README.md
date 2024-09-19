@@ -44,6 +44,7 @@
 - [Алексей Мичурин. О многом кратко](http://www.michurin.net/)
 - [Академия Selectel](https://selectel.ru/blog/courses/)
 - [статья про поверхностное понимание Kafka с примерами на Python](https://habr.com/ru/articles/587592/)
+- [Интерактивное изучение регулярных выражений](https://regexone.com)
 
 ## Программирование:
 - ### ООП 
