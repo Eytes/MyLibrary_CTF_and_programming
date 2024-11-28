@@ -101,6 +101,7 @@
 
 ## JavaScript and frameworks
 - [Современный учебник JavaScript](https://learn.javascript.ru/)
+- [Обучающие курсы от Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 
 ## Java
 - [Free Java Tutorial](https://www.examclouds.com/)
